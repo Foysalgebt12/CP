@@ -43,7 +43,7 @@ git clone https://github.com/Foysalgebt12/Cerebral-Palsy-CP-Risk-Factors-Analysi
 cd Cerebral-Palsy-CP-Risk-Factors-Analysis
 
 # Run ML models (RF/XGB/SVM/FNN)
-python RF_XGB_SVM_CODE.py
+python RF_XGB_SVM_FFN_CODE.py
 
 ```
 
